@@ -1,0 +1,10 @@
+workclass,Total Records,Above 50K Count,Above 50K Rate
+ Self-emp-inc,1695,938,55.34
+ Federal-gov,1432,561,39.18
+ Local-gov,3136,927,29.56
+ Self-emp-not-inc,3862,1077,27.89
+ State-gov,1981,530,26.75
+ Private,33906,7387,21.79
+ Without-pay,21,2,9.52
+ ?,2799,265,9.47
+ Never-worked,10,0,0.0
